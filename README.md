@@ -5,7 +5,8 @@
 🌱 **Learning AI & Machine Learning**  
 💬 **Ask me about JavaScript, React, Next.js, Git, and APIs**  
 📫 **Connect with me:**  
-[![LinkedIn](https://www.linkedin.com/in/sumbul-jawed-b9a5231b5/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumbul-jawed-b9a5231b5/)
+
 
 ### 🚀 Technologies & Tools I Work With:
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
