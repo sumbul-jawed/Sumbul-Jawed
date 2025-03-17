@@ -9,13 +9,13 @@
 
 
 ### 🚀 Technologies & Tools I Work With:
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwind-css)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-orange?style=flat&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-darkorange?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 
 
