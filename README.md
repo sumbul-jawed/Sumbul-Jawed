@@ -13,9 +13,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
+![Tailwind css](https://img.shields.io/badge/-tailwindcss-green?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-lightgreen?style=flat&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Nodejs-orange?style=flat&logo=git)
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark)
+
+
+
 
 
 
