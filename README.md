@@ -16,7 +16,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-darkblue?style=flat&logo=tailwind-css)
 ![Python](https://img.shields.io/badge/-Python-darkorange?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js)
 
 
 ### 📊 GitHub Stats:
