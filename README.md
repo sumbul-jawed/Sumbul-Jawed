@@ -1,7 +1,12 @@
-### Hi 👋, I'm Sumbul Jawed  
+### Hi 👋, I'm Sumbul Jawed 
 
-🚀 **Web Developer | TypeScript | Next.js | Python | AI Enthusiast**  
-🎓 **B.Com Graduate | Passionate about Web 3.0 & AI**  
+🚀 **I'm a Frontend Web Developer**  
+🔭 **Currently working on Next.js, TypeScript, and Sanity CMS**  
+🌱 **Learning AI & Machine Learning**  
+💬 **Ask me about JavaScript, React, Next.js, Git, and APIs** 
+
+## 👤 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumbul-jawed-b9a5231b5/)
 
 ---
 
@@ -36,10 +41,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumbul-jawed&theme=react-dark)
 
 ---
-
-## 👤 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumbul-jawed-b9a5231b5/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
 
 🔗 **I love building interactive UIs, dynamic web applications, and exploring AI technologies!** 🚀
 
