@@ -13,16 +13,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Tailwind css](https://img.shields.io/badge/-tailwindcss-green?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-lightgreen?style=flat&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Nodejs-orange?style=flat&logo=git)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumbul-jawed&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumbul-jawed&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sumbul-jawed&theme=react-dark)
 
 
 
