@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-orange?style=flat&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-#10b981?style=flat&logo=tailwind-css)
 ![Python](https://img.shields.io/badge/-Python-darkorange?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 
