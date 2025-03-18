@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumbul-jawed-b9a5231b5/)
 
 ## ⚡ Tech Stack:
-<p align="center">
+
   <img src="https://img.shields.io/badge/-HTML5-darkorange?style=flat&logo=html5" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" width="120" height="40"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Sanity-darkred?style=flat&logo=sanity" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Python-lightgreen?style=flat&logo=python" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git" width="120" height="40"/>
-</p>
+
 
 ## 🏆 GitHub Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sumbul-jawed&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)
