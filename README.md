@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumbul-jawed-b9a5231b5/)
 
 ## ⚡ Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-darkorange?style=flat&logo=html5)
+![HTML5]("https://img.shields.io/badge/-HTML5-darkorange?style=flat&logo=html5" width="100" height="30")
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=flat&logo=typescript)
