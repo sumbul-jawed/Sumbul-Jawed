@@ -9,19 +9,19 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumbul-jawed-b9a5231b5/)
 
 ## ⚡ Tech Stack:
-![HTML5]("https://img.shields.io/badge/-HTML5-darkorange?style=flat&logo=html5" width="100" height="30")
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-darkblue?style=flat&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![Sanity CMS](https://img.shields.io/badge/-Sanity-darkred?style=flat&logo=sanity)
-![Python](https://img.shields.io/badge/-Python-lightgreen?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-darkorange?style=flat&logo=html5" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-TypeScript-lightblue?style=flat&logo=typescript" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-React-white?style=flat&logo=react" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-darkblue?style=flat&logo=tailwind-css" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Sanity-darkred?style=flat&logo=sanity" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Python-lightgreen?style=flat&logo=python" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git" width="120" height="40"/>
+</p>
 
 ## 🏆 GitHub Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sumbul-jawed&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)
