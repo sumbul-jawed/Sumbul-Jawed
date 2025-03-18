@@ -11,13 +11,13 @@
 ---
 
 ## ⚡ Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-darkorange?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-darkblue?style=flat&logo=tailwind-css)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 ![Sanity CMS](https://img.shields.io/badge/-Sanity-red?style=flat&logo=sanity)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
